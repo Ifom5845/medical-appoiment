@@ -2,7 +2,7 @@
 
 Este proyecto utiliza Machine Learning para predecir si un paciente asistirá o no a una cita médica, basándose en un conjunto de características clínicas, demográficas y administrativas. El análisis se enfoca en el conjunto de datos **"Medical Appointment No Shows"**, originalmente publicado en Kaggle.
 
-## 📊 Dataset
+##  Dataset
 
 - **Fuente**: Kaggle — [Medical Appointment No Shows](https://www.kaggle.com/joniarroba/noshowappointments)
 - **Registros**: Más de 100,000 citas médicas en Brasil.
@@ -17,7 +17,7 @@ Este proyecto utiliza Machine Learning para predecir si un paciente asistirá o 
   - `SMS_received`
   - `Neighbourhood`, entre otras.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Construir un modelo de clasificación binaria para predecir ausencias a citas médicas, lo cual puede ayudar a mejorar la eficiencia en el sistema de salud, reducir pérdidas de tiempo y recursos, y tomar mejores decisiones administrativas.
 
